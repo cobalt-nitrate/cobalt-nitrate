@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cobalt-nitrate/cobalt-nitrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Harshit Singh a sophomore from Biotechnology IIT Delhi. I have a very Entrepreneurial Nature with lots of fun Start-up ideas. I am pretty much inclined toward Data driven field and Machine Learning.
 
 - 🔭 I’m currently working on **Sequence Models**
@@ -10,7 +7,6 @@ I am Harshit Singh a sophomore from Biotechnology IIT Delhi. I have a very Entre
 - 👯 I’m looking to collaborate on any **ML/DL/AI projects**
 - 🤔 I’m looking for help with **AR/VR**
 - 💬 Ask me about Machine Learning, Deep learning
-- 📫 ***How to reach me:*** Always active to the mails on [hharshit12@gmail.com]
+- 📫 ***How to reach me:*** Always active to the mails on hharshit12@gmail.com
 - 😄 Pronouns: Waiting for one
 - ⚡ Fun fact: We die!
--->
