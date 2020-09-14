@@ -8,5 +8,5 @@ I am Harshit Singh a sophomore from Biotechnology IIT Delhi. I have a very Entre
 - 🤔 I’m looking for help with **AR/VR**
 - 💬 Ask me about Machine Learning, Deep learning
 - 📫 ***How to reach me:*** Always active to the mails on hharshit12@gmail.com
-- 😄 Pronouns: Waiting for one
+- 😄 Pronouns: Waiting for one XD
 - ⚡ Fun fact: We die!
