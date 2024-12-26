@@ -5,8 +5,4 @@ I am Harshit Singh a sophomore from Biotechnology IIT Delhi. I have a very Entre
 - 🔭 I’m currently working on **Sequence Models**
 - 🌱 I’m currently learning **Recurrent Neural Networks**
 - 👯 I’m looking to collaborate on any **ML/DL/AI projects**
-- 🤔 I’m looking for help with **AR/VR**
-- 💬 Ask me about Machine Learning, Deep learning
-- 📫 ***How to reach me:*** Always active to the mails on hharshit12@gmail.com
-- 😄 Pronouns: Waiting for one XD
-- ⚡ Fun fact: We die!
+
